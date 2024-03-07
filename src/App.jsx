@@ -18,7 +18,7 @@ export const contextoGood = createContext()
 
 let usuario = undefined;
 
-const ruta = "https://api-nick.vercel.app/"
+const ruta = "https://api-nick.vercel.app"
 
 
 
